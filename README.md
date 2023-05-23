@@ -1,6 +1,6 @@
 <img src="./ev.png"></img>
 
-# 📝 Desafio site Culinária.
+# 📝 Projeto.
 
 Esse é um projeto de uma landing page de um site que fala sobre alimentação e saúde.
 
